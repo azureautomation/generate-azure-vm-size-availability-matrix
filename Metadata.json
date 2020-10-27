@@ -1,0 +1,20 @@
+{
+    "Author": "Floris van der Ploeg",
+    "ContentSize": 11210,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/generate-azure-vm-size-availability-matrix/master/Export-AzureVMSizes.ps1",
+    "DownloadCount": 1127,
+    "Id": "Generate-Azure-VM-size-3dd9d406",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 292,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2017-1-18T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This PowerShell script allows you to export a matrix of the availability of VM sizes per location in Microsoft Azure. The availability matrix will be in CSV format and gives you clear insight on which VM sizes are available in which Azure location.",
+    "Title": "Generate Azure VM size availability matrix",
+    "UpdatedDate": "2017-1-24T00:00:00",
+    "Url": "https://github.com/azureautomation/generate-azure-vm-size-availability-matrix",
+    "UserTags": "Azure, Microsoft Azure, Location"
+}
